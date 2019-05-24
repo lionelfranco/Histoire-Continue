@@ -1,6 +1,6 @@
 # Chapitre 01  
 
-## Des débuts difficiles  
+## La lampe  
 
 Notre histoire commence dans le petit village de *Castagne*, un petit village comme on en voit souvent, avec son cloché, ses maisons, son port, son marché et, bien entendu, ses habitants. Parmi eux, un homme, **James Patageul**, un petit vieillard antipathique qui n'avait pas beaucoup d'attache au sein de ce village. Un beau jour, **James** se rendit au *marché*, situé sur la place du village. Il entra dans une boutique d'antiquité et, aussitôt, son regard se posa sur un objet étrange, une sorte de lampe à huile très ancienne. Il demande à la vendeuse de lui raconter l'histoire de cette lampe mais cette dernière lui répondit alors:  
 
