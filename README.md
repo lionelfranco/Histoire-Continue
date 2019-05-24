@@ -5,7 +5,7 @@ Les règles sont simples:
 
   * Cloner ce repo
   * Ajouter une branche "Chapitre.." depuis la branche developpement
-  * Rediger votre partie en éditant le fichier "Histoire.md"
+  * Rediger votre partie en éditant le fichier "Histoire.md" en commançant par votre prénom et votre nom
   * Add le fichier une fois votre partie rédigée
   * Commit
   * Push depuis votre branche
